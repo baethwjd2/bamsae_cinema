@@ -17,7 +17,7 @@
 
 # 구현 과정
 ## 요구사항 명세서 작성
-- https://docs.google.com/spreadsheets/d/1KfqxMfd2Zab5jF3vGIwnm2GOcy77n6eR/edit#gid=64629163
+- https://docs.google.com/spreadsheets/d/1KfqxMfd2Zab5jF3vGIwnm2GOcy77n6eR/edit#gid=64629163](https://docs.google.com/spreadsheets/d/1KfqxMfd2Zab5jF3vGIwnm2GOcy77n6eR/edit?usp=sharing&ouid=109156304312589340626&rtpof=true&sd=true
 ![](1.png)
 <br>
 
@@ -26,6 +26,7 @@
 <br>
 
 ## 테이블 명세서 작성
+- https://docs.google.com/spreadsheets/d/1end2FTF6l8jvD-R5qIairWSBn7vNS_5K/edit#gid=1233718648](https://docs.google.com/spreadsheets/d/1end2FTF6l8jvD-R5qIairWSBn7vNS_5K/edit?usp=sharing&ouid=109156304312589340626&rtpof=true&sd=true
 ![](3.png)
 <br>
 
