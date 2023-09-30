@@ -18,19 +18,19 @@
 # 구현 과정
 ## 요구사항 명세서 작성
 - https://docs.google.com/spreadsheets/d/1KfqxMfd2Zab5jF3vGIwnm2GOcy77n6eR/edit#gid=64629163
-[!1.png]
+![](1.png)
 <br>
 
 ## ERD 그리기
-[!2.png]
+![](2.png)
 <br>
 
 ## 테이블 명세서 작성
-[!3.png]
+![](3.png)
 <br>
 
 ## 테이블 구조도 그리기
-[!4.png]
+![](4.png)
 <br>
 
 
