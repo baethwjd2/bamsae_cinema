@@ -12,10 +12,10 @@
 
 ## 실행 방법
 `yarn start`
-<br>
+<br><br>
 
 
-# 구현 과정
+# 데이터베이스 구축
 ## 요구사항 명세서 작성
 - https://docs.google.com/spreadsheets/d/1KfqxMfd2Zab5jF3vGIwnm2GOcy77n6eR/edit#gid=64629163](https://docs.google.com/spreadsheets/d/1KfqxMfd2Zab5jF3vGIwnm2GOcy77n6eR/edit?usp=sharing&ouid=109156304312589340626&rtpof=true&sd=true
 ![](1.png)
